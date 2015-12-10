@@ -5,3 +5,6 @@ dest-www/**
 
 # for mac
 **/.DS_Store
+
+# similar api
+vender/upalytics_ch.js
